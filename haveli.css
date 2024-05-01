@@ -1,0 +1,41 @@
+#s1{
+    background:bisque;
+    border-radius: 10px;
+    border: 3px solid snow;
+    width: 350px;
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 25px;
+    padding-left: 20px;
+    display:inline-block;
+    color: black;
+    margin-bottom: 20px;
+  }
+body{
+  background-image: url(wood.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+a{
+  background-color: #339966;
+  color: #fff;
+  padding: 4px 10px;
+  
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 5px;
+}
+button{
+  background-color: #339966;
+  color: #fff;
+  padding: 10px 20px;
+  
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 5px;
+}

@@ -1,0 +1,107 @@
+.logo{
+    height: 100px;
+    margin-left: 100px;
+}
+.header-right{
+   margin-left: 200px;
+   word-spacing: 50px;
+}
+body{ 
+   
+    background: linear-gradient(to bottom, transparent 0%, black 240%), url("hero-home.jpg") fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+h2{
+    display: inline;
+    position: absolute;
+    top: 6px;
+    margin-left: 10px;
+    font-size: xx-large;
+    font-weight: 600;
+    color: rgb(5, 65, 59);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.bodcon{
+    margin-left: 50px;
+    margin-top: 140px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display: inline-block;
+}
+.content{
+    margin-left: 100px;
+    margin-top: 200px;
+    font-size: 60px;
+    font-weight: 18px;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
+.boddown{
+    color: white;
+    margin-left: 100px;
+    margin-top: -45px;
+    font-size: 23px;
+    font-weight: 100;
+}
+.header-right a{
+    text-decoration-line: none;
+    color:rgb(30, 152, 44);
+    font-size: large;
+    font-family: sans-serif;
+}
+h3{
+    display: inline;
+    position: absolute;
+    top: 60px;
+    margin-left: 70px;
+    font-size: small;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(5, 65, 59);
+}
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a[href="#contact"]{
+    border-radius: 20%;
+    color: white;
+    font-weight: 550;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#button1{
+    background-color: rgb(30, 152, 44);
+    border: none;
+    padding: 12px 25px;
+    border-radius: 30px;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+}
+.plugin{
+    position: absolute;
+    bottom: 45px;
+    right: 45px;
+} 
+.fa:hover {
+      opacity: 0.7;
+}
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+}

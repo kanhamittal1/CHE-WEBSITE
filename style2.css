@@ -1,0 +1,106 @@
+body {
+  font-family: Arial, sans-serif;
+  color: aliceblue;
+  background-color: #f2f2f2;
+  margin: 0;
+  padding: 0; 
+  
+
+}
+header {
+  /* background-color: #339966; */
+  background-image: url(food_banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  margin-bottom: -1.1rem;
+}
+#mainnav a:hover{
+  color: antiquewhite;
+}
+  
+
+header h1 {
+  font-size: 36px;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+p{
+  font-size: 18px;
+  line-height: 1.6;
+}
+.titlemain {
+  font-size: 18px;
+  line-height: 1.6;
+  margin-top: -3.8rem;
+  margin-bottom: 2rem;
+}
+
+.container {
+  margin: 0 auto;
+  padding-left: 12rem;
+  padding-right: 12rem;
+  background-color: rgba(5, 28, 11, 0.224);
+  
+  
+}
+
+
+.quote {
+  font-style: italic;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+#tit {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size:x-large;
+}
+.cta-button {
+  background-color: #339966;
+  color: #fff;
+  padding: 10px 20px;
+  
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 5px;
+  
+}
+.cta-button:hover{
+  background-color: #ff0000f6;
+}
+
+body{
+  background-image: url('Don\'t\ Miss\ Out!blur.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+.container .button{
+  text-align: center;
+
+}
+#s1{
+  background: #fff;
+  border-radius: 10px;
+  border: 3px solid snow;
+  width: 350px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 25px;
+  padding-left: 20px;
+  display:inline-block;
+  color: black;
+  margin-bottom: 20px;
+}
+
+nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color:#339966;
+  font-weight: bold;
+  cursor: pointer;
+}
